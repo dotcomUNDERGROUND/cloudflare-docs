@@ -6,7 +6,7 @@ order: 12
 
 You can integrate Google authentication with Cloudflare Access without a Google Workspace account. The integration will allow any user with a Google account to login (if the Access policy allows them to reach the resource). Unlike the instructions for [Google Workspace](/authentication/configuring-identity-providers/gsuite), the steps below will not allow you to pull group membership information from a Google Workspace account.
 
-1. Visit the Google Cloud Platform console. Create a new project.
+1. Visit the [Google Cloud Platform Console](https://console.cloud.google.com/). Create a new project.
 
 ![Create Project](../../static/google/create-project.png)
 
