@@ -8,7 +8,7 @@ You can integrate a Google Workspace (formerly Google Suite) account with Cloudf
 
 Once integrated, users will login with their Google Suite credentials to reach resources protected by Cloudflare Access or to enroll their device into Cloudflare Gateway.
 
-1. Log in the Google Cloud Platform [console][https://console.cloud.google.com/]. This is separate from your Google Workspace console.
+1. Log in the [Google Cloud Platform Console](https://console.cloud.google.com/). This is separate from your Google Workspace console.
 
 ![GCP Console](../../static/gsuite/gcp-home.png)
 
